@@ -1,3 +1,10 @@
+## 🚀 Technologies Used
+
+- SQL (T-SQL / MS SQL Server)
+- Excel (Data Cleaning, Formulas, Conditional Formatting)
+- Git / GitHub
+
+
 🧠 SQL Data Exploration & Cleaning Projects
 
 This repository contains hands-on SQL projects where I explored and cleaned real-world datasets using SQL queries. It includes:
