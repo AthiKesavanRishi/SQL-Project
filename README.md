@@ -71,12 +71,14 @@ ALTER TABLE, DROP COLUMN
 
 String manipulation: REPLACE, PARSENAME, TRIM
 
-🧰 Tools Used:
-SQL Server Management Studio (SSMS)
+## 🚀 Technologies Used
 
-Microsoft Excel (for initial data loading and review)
+- SQL (Microsoft SQL Server for Data Exploration & Cleaning)
+  
+- Excel (Data Preparation)
+  
+- Git / GitHub (Version Control)
 
-GitHub (for version control and project showcasing)
 
 📎 Getting Started
 To explore or modify these projects:
